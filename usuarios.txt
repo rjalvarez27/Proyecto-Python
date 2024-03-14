@@ -1,0 +1,2 @@
+{'Nombre': 'raul', 'Apellido': 'alvarez', 'Nacimiento': '27/12/1988', 'Pais': 'venezuela', 'Correo': 'raul509@gmail.com', 'Numero': '+584241527289'}
+{'Nombre': 'jose', 'Apellido': 'alvarez', 'Nacimiento': '27/12/1988', 'Pais': 'venezuela', 'Correo': 'raul509@gmail.com', 'Numero': '+584241527289'}

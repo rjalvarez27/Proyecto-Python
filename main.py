@@ -187,9 +187,10 @@ def programa():
         f.close()
         programa()
     elif opciones == 3:
+        print('Usuarios a Modificar')
         f = open('usuarios.txt', 'r')
         print(f.read())
-        entrada = int(input('ingrese que linea quiere modificar\n'))
+        entrada = int(input('Ingrese que usuario quiere modificar en numero\n'))
         with open("usuarios.txt", "r") as f:
          entradas = f.readlines()
         data = json.loads(entradas[entrada - 1].replace("'", '"'))
